@@ -1,0 +1,24 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="1390 600 1290 200" width="1290" height="200">
+	<title>프로그래머스 스킬체크 뱃지</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m1390 600h1290v200h-1290z"/>
+		</clipPath>
+		<image width="200" height="126" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMgAAAB+CAYAAABhy172AAAAAXNSR0IArs4c6QAACgpJREFUeF7tnVvoZlMYxp/FDInMXJCkKMkFuVByFomYMeMQJcmFKBSKIoSQY6TcKDculBs3czEHk0mGRomkKBkpLiiiNEo5jdf3Tutv9nzzHd6999rrtJ9d/6Leb6+1nvf9zXr22mvv7URkN4DN/m+Xc24veFCBkSogIocCuAjARgAbnIhIQ4tfAWz3sGxzzu0ZqU4c9ogUEJE1ANZ7KNYBWLsy/GlAmrL8A2CXh2WTc+7bEWnGoVaugIic6oHQmeICAKtmDXkRINPxX9OKVV41FQ9v2joBUECWHm0AaZ6MVmyptAxIrcAi62TtW1dAaMWsCjMuqgJW62TtVAhAaMWsajMuuAJdrZO1I0MAQitmVZ9xnRQIYZ2sDQ8NCK2YNROMW6hAaOtklTsmILRi1qwwDkNbJ6vEKQGhFbNmaSRxMa2TVdJcAKEVs2assrhU1skqY46A0IpZs1dgXC7WySpdCYDQilmzmWlcjtbJKlVpgNCKWTObOC5362SVp2RAaMWsWY4QV5p1skpSEyC0YtasB4or2TpZJagVEFoxawW0jKvFOlmHPQZAaMWs1TAjrlbrZJVkjIDQii2pjjFYJwJiVWB/3KifoBybdbKWx9hnkEU6Vf0E5ditEwGxKmCLq+IJSlonW7KbUZxB2mtWlBWjdWqfYALST7OsV8VoncImlzNIWD2TWDFap7BJ5AwynJ7RblDSOsVJImeQODprK71WxWid4iWKM0garVvfoKR1Sp8oziDpc6A92LnyilcAqxuvxLw4j+6NtxcKiOkdpeOViCMfmQIHLuM3B88pfWSlwOGuKDB39dHN04gXhayeyhUwLZrMBWRaHFqxysul/uF12gFhBoRWrP4KqnCEvW/cdgJkCpYDPlll/e5ChcngkPJQwGSdrF3tDQitmFVqxg2kQCfrZO1LcEBoxazSM66HAr2tk7XtQQGhFbOmgXEGBYJaJ0N7+0KiAUIrZk0J47wCg1onq8p6Jz35d9J5g9KarurjolmneUpm/5103qCsHoLpASaxTtZr5ey/k84blNUBk4V1stZVm928WZNeXRnVNaDsrJP1fl0bQJopK3bAddVd1qOp4h/UroA0M1PUlJl1SZXduSrrIAQgRV10lV2D2fW+eicxBCC0YtnVcdAOVWGdrIoMDQitmDUT+cZVaZ2scscEhFbMmpX0cdVbJ6vEKQGhFbNmKU7cqKyTVdJcAKEVs2YsXNyorZNVxhwBoRWzZq99HK1TS81KAIRWrGVSp8JpnXroVxogtGLLk03rtFwjc0TJgNCK7VeA1slc8u0CawJkbFaM1qldrXeKrhWQGq0YrVOnEu/3ozEAUrIVo3XqV9+9fz1GQHK3Ytq/zf5vl3Nub+8stzwBH4HeL9jYAcnOirWs5WDh1ifsgjVYyIkIyPxEJb8IHrKG+Oy/TV0CYtMp+bWArZuLo2id2qtIQNprlsVqkrXbtE5WpWbHEZB++umvs7JitE79E9o8AwEJq2cSK0brFDaJBGQ4PaOtitE6xUkiZ5A4Ove2YrRO8RLFGSSN1s1WTVaM1il9ojiDpM+B9oDfSc8jDwf1gt9JzzQx7FYyBfid9GTSs+FcFeB30nPNDPuVTAHT/SvzF6a4rJgskWw4jAKddkCYAWn2kasrYTLGswyugGm1cFEvOgEyBQu/kz54ntlACwVM1sl6vt6ATDdEK2aVnnGBFOhknaxtBweEVswqPeN6KNDbOlnbHhQQWjFrGhhnUCCodTK0ty8kGiC0YtaUMM4rMKh1sqqcDBBaMWuKRhUXzTpZVc0CEFoxa7qqjEtinaxKZgcIrZg1dcXGZWGdrOplDwitmDWVWcdlZ52sahUFCK2YNa1ZxGVtnawKFQsIrZg1xdHiirJOVlWCASIiF08afQLACQC2+b+dzrm/rJ0JFce9YqGUXHqepNZJRA4BcD6Aq/3fzwCedc69vbTnxoDegDTAuGRGm78DeNfDssU594OxX8HC+Cx3MClXTpTUOonIkQAu90BsAHDsjBF+DuA5AG855/7to0BnQJaAMa9P2vGV2eUj59zffTrf5bfcK9ZateTWSUSOA3Cdh+LSSfEfbhzFVwBeAPBm11prDUhHMGaN5zcAOzwwW51zPxkHHSyMVmyulEmtk/ZKRM4AcI2H4qyeuz6+B/ASgNecc3+0KSAzIAHBmNU/mYjxGYCtHpiP+06NbUTwCRn7tv3U1mk1gAsb1xMnt82hIV7/EX7Zg7LHEL98L9bAYMzr4y8AtntYdjjn9P+jHiOwYjlYp6MBXOVniisBrImUZIXjVQCvLHMuc2eQRGDM0kcvsj5pXLt86pzTGSfaUZEVy8E6ndSYJXTlU2eOVIfardf1gt45pzbsoOMgQDICY55oPwLQZTy92H/HOafXMtGOAlfFUlsnrbGzPRR6TXF6tGTZG9LFojcAvOic29382f+AFADGrOHqwD5sXOh/adckTGSGViwH63RYYyl248TzHx9G7cHPom5l02RB4Enn3Bfamr44buUG36z7GIP3KHAD303dpNT7MNGOhFYsB+t0DID1fqa4YrJqdFQ04YdpaIsuEdf86tE/AXzQuEn5zTA6zj5rBCuW1DrpqEXkFADXeyjOBaB3tqs6agZkJVH63tsnnHPvp8xcACuW3DpN6+fdx/OTFUeFo8qjZkCyAGNW1bSwYsmtk6XqReSyyezxFIDzLPElxdQISLZgzIFl+galhiX9TnrXAhYR3RuloJzZ9Ry5/a4mQIoCI7dCCNUfEdGVUb35VwUoNQBCMEJVd8DzeFBu0Ou/ya7a0wKeOuqpSgaEYEQtlW6N+Wc2dKWrSFBKBIRgdKvVpL/yoNwM4HEAujxcxFESIASjiJJa3EkRWQXgplJAKQEQglEBGNND8KDcCuDRyYbBE3MdYs6AEIxcqyZgv0RE923dAeDhHPds5QgIwQhYgKWcSkSOAHB7bqDkBAjBKKWaB+ynB+VuAA8C0A2QSY8cACEYSUsgz8ZFRHcD35UalJSAEIw8azOrXnlQ7gNwP4C1sTuXAhCCETvLFbQnIgrHPbFBiQkIwaigUFMPwYPyAIB7YzyUFQMQgpG6qipsX0T0Al6t16CgDAkIwaiwMHMbkgflEQB3Th6R1aXioMcQgBCMoCniySwKiIi+GOIxALdNXmCtNx+DHCEBIRhBUsKT9FFARHTbykOhQAkBCMHok1H+dhAFPCi6xf4WALpBstPRBxCC0Uly/iimAv7NK3qN0gmULoAQjJgZZltBFPCg6GPAN7Z5PVEbQAhGkFTxJCkVEBF9/Fe32JtAsQBCMFJmlG0PooAH5WkA1y769sgiQAjGIKnhSXNSQET0FUW6PDwTlFmAEIycMsi+RFHAg/IMgHXNBpuAEIwoqWAjOSsgIucA0Nep7nuZuwLy3uQ/kr+7NmfR2LfxKbDy1YP/AG2HYFpClnS8AAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #202b3d } 
+		.s1 { fill: #051525 } 
+		.t2 { font-size: 11px;fill: #ffffff;font-weight: 500;font-family: "NotoSansKR-Medium", "Noto Sans KR" } 
+	</style>
+	<g id="남다른 실력자 심플" clip-path="url(#cp1)">
+		<path id="모양 1 copy 5" fill-rule="evenodd" class="s0" d="m1410 600h1250c11 0 20 9 20 20v160c0 11-9 20-20 20h-1250c-11 0-20-9-20-20v-160c0-11 9-20 20-20z"/>
+		<path id="모양 2 copy 6" fill-rule="evenodd" class="s1" d="m2650 610c11 0 20 9 20 20v140c0 11-9 20-20 20h-370v-180z"/>
+		<text id="programmers" style="transform: matrix(10,0,0,10,1479.898,733.811)" >
+			<tspan x="0" y="0" class="t2">p</tspan><tspan  y="0" class="t2">r</tspan><tspan  y="0" class="t2">o</tspan><tspan  y="0" class="t2">g</tspan><tspan  y="0" class="t2">r</tspan><tspan  y="0" class="t2">a</tspan><tspan  y="0" class="t2">m</tspan><tspan  y="0" class="t2">m</tspan><tspan  y="0" class="t2">e</tspan><tspan  y="0" class="t2">r</tspan><tspan  y="0" class="t2">s
+</tspan>
+		</text>
+		<use id="단색 채우기 2 copy 5" href="#img1" transform="matrix(1,0,0,1,2379,642)"/>
+	</g>
+</svg>

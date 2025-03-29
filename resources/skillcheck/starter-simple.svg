@@ -1,0 +1,24 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="1390 0 1290 200" width="1290" height="200">
+	<title>프로그래머스 스킬체크 뱃지</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m1390 0h1290v200h-1290z"/>
+		</clipPath>
+		<image width="201" height="81" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAMkAAABRCAYAAAB484IrAAAAAXNSR0IArs4c6QAABCtJREFUeF7tnUFy1DAQRdsbVpwGTgMX4EKssqaKw1CsOApVWSLKqQwMM4Mt2a1Wt/plwUpjS7//42XI4CzCFwmQwGYCSyllEZFvIvIkIl+WZXkmMxLInkAp5a2IfBSRTxdIfr2G8lNEvorI52VZfmQPivPnS6CU8n4FQ0Q+iMgKitxCcp3Kd+ySryQZT3xtDRF5d5vBFiSXtdglY3MSnPmRNR4duwYS7JKgMFmOuGcNDUiwS5Y2TXbOWmtoQoJdJivRjMc5Yo1ekGCXGRsW+ExnrNEbEuwSuFjRt65lDUtIsEv01gXZv7Y1RkCCXYKULdI2e1pjNCTYJVITHe7VwhpeIMEuDgvodUvW1vAICXbx2s7B+xplDc+QYJfBpfRwew/WiAIJdvHQWMM9eLJGNEiwi2FRrW/l1RqRIcEu1i3udD/v1pgBEuzSqbw9LxvJGrNBgl16Nlvh2hGtMSsk2EWh0FqXiG6NDJBgF622N15nFmtkggS7NJb8yPIZrZEVEuxyhICN18xsjeyQYJcTsGSxBpDcJ8CTYHbAyWYNINkuBM8Ze80nszWApO7bjbR2wRqPC9L63K26ms2zanq7YI39sgLJfkbriunsgjXqBr+uApL6rC4rw9oFa7QPG0iOZRbu5y5Y49ygMcm5/NzaBWvoDBaT6OXoxi5YQ3+omEQ/U3O7YI1+Q8QkfbPtbhesYTNATGKTs5pdsIbtwDCJfd6H7YI1xg0Lk4zLftcuWGP8cF5Msv5RSik+tpN6F39+qi8ib25/A2zqZAYf/gLJ3a/lHbwvbk8CoxP4+1Gk652g99Fz4f4OErj72NGLSR598UbRwbjYglUCmx9g/S8kl91hF6s5cZ8BCVR9WHUXkptvx3jvMmCS3FI1geb/9tAECXZRHRYXs02gyhqPtnQIEuxiO13udjiBZmt0gQS7HB4gL+yXwGFrdIUEu/SbOFeuSkDFGmaQYJeqobJIJwFVa5hDgl10WsBV7hLoZo2hkGAXqq6QQHdruIAEuyhUJdclTK3hDhLskqvtjacdYg23kGCXxvrMu3y4NUJAgl3mJWDjZG6sEQoS7DI9LC6tERYS7DIVMK6tER4S7BIWljDWmAoS7BICmHDWmBIS7OIOltDWmB4S7DIUmCmskQYS7GIGy3TWSAkJdukCzLTWSA0JdjkNSwprAMlNAjwJpgqcVNYAko1O8Jyxf8JJaw0gqfiLM7ld0lsDSCogSfjeBWvs9OL0I4Uaexdy+aR2wRqVbQSSyqCu/ik58lMssUbjvNflQHIgtPUlweyCNQ7OGUhOBBfgvQvWUJovJlEK0pFdsIbiTDGJcpgD7YI1Os4Sk3QM18AuWKPz/DCJQcAd7II1jOeGSYwDP2EXrDFgVphkUOgNdsEaDmaESRwM4YFdiog8iciXZVmenWwx7TZ+A5d1ych3d/eyAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: #202b3d } 
+		.s1 { fill: #051525 } 
+		.t2 { font-size: 11px;fill: #ffffff;font-weight: 500;font-family: "NotoSansKR-Medium", "Noto Sans KR" } 
+	</style>
+	<g id="굿 스타터 심플" clip-path="url(#cp1)">
+		<path id="모양 1 copy" fill-rule="evenodd" class="s0" d="m1410 0h1250c11 0 20 9 20 20v160c0 11-9 20-20 20h-1250c-11 0-20-9-20-20v-160c0-11 9-20 20-20z"/>
+		<path id="모양 2 copy 2" fill-rule="evenodd" class="s1" d="m2650 10c11 0 20 9 20 20v140c0 11-9 20-20 20h-370v-180z"/>
+		<text id="programmers" style="transform: matrix(10,0,0,10,1479.898,133.811)" >
+			<tspan x="0" y="0" class="t2">p</tspan><tspan  y="0" class="t2">r</tspan><tspan  y="0" class="t2">o</tspan><tspan  y="0" class="t2">g</tspan><tspan  y="0" class="t2">r</tspan><tspan  y="0" class="t2">a</tspan><tspan  y="0" class="t2">m</tspan><tspan  y="0" class="t2">m</tspan><tspan  y="0" class="t2">e</tspan><tspan  y="0" class="t2">r</tspan><tspan  y="0" class="t2">s
+</tspan>
+		</text>
+		<use id="단색 채우기 1 copy" href="#img1" transform="matrix(1,0,0,1,2379,59)"/>
+	</g>
+</svg>

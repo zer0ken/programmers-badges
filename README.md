@@ -9,43 +9,43 @@
 
 ### 굿 스타터
 
-[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/starter.png">](resources/skillcheck/starter.png)
+[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/starter.svg">](resources/skillcheck/starter.svg)
 
 ```html
-[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/starter.png">](#)
+[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/starter.svg">](#)
 ```
 
-[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/starter-simple.png">](resources/skillcheck/starter-simple.png)
+[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/starter-simple.svg">](resources/skillcheck/starter-simple.svg)
 
 ```html
-[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/starter-simple.png">](#)
+[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/starter-simple.svg">](#)
 ```
 
 ### 탄탄한 비기너
 
-[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/beginner.png">](resources/skillcheck/beginner.png)
+[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/beginner.svg">](resources/skillcheck/beginner.svg)
 
 ```html
-[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/beginner.png">](#)
+[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/beginner.svg">](#)
 ```
 
-[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/beginner-simple.png">](resources/skillcheck/beginner-simple.png)
+[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/beginner-simple.svg">](resources/skillcheck/beginner-simple.svg)
 
 ```html
-[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/beginner-simple.png">](#)
+[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/beginner-simple.svg">](#)
 ```
 
 ### 남다른 실력자
 
 
-[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/outlier.png">](resources/skillcheck/outlier.png)
+[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/outlier.svg">](resources/skillcheck/outlier.svg)
 
 ```html
-[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/outlier.png">](#)
+[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/outlier.svg">](#)
 ```
 
-[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/outlier-simple.png">](resources/skillcheck/outlier-simple.png)
+[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/outlier-simple.svg">](resources/skillcheck/outlier-simple.svg)
 
 ```html
-[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/outlier-simple.png">](#)
+[<img height="20px" src="https://raw.githubusercontent.com/zer0ken/programmers-badges/refs/heads/main/resources/skillcheck/outlier-simple.svg">](#)
 ```
