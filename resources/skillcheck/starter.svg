@@ -10,7 +10,7 @@
 		tspan { white-space:pre } 
 		.s0 { fill: #202b3d } 
 		.s1 { fill: #051525 } 
-		.t2 { font-size: 11px;fill: #ffffff;font-weight: 500;font-family: "NotoSansKR-Medium", "Noto Sans KR" } 
+		.t2 { font-size: 11px;fill: #ffffff;font-weight: 400;font-family: "NotoSansKR-Regular", "Noto Sans KR" } 
 	</style>
 	<g id="굿 스타터" clip-path="url(#cp1)">
 		<path id="모양 1" fill-rule="evenodd" class="s0" d="m20 0h1250c11 0 20 9 20 20v160c0 11-9 20-20 20h-1250c-11 0-20-9-20-20v-160c0-11 9-20 20-20z"/>
