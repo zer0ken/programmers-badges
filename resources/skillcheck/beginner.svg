@@ -10,13 +10,13 @@
 		tspan { white-space:pre } 
 		.s0 { fill: #202b3d } 
 		.s1 { fill: #051525 } 
-		.t2 { font-size: 11px;fill: #ffffff;font-weight: 400;font-family: "NotoSansKR-Regular", "Noto Sans KR" } 
+		.t2 { font-size: 11px;fill: #ffffff;font-weight: 500;font-family: "NotoSansKR-Medium", "Noto Sans KR" } 
 	</style>
 	<g id="탄탄한 비기너" clip-path="url(#cp1)">
 		<path id="모양 1 copy 2" fill-rule="evenodd" class="s0" d="m20 300h1250c11 0 20 9 20 20v160c0 11-9 20-20 20h-1250c-11 0-20-9-20-20v-160c0-11 9-20 20-20z"/>
 		<path id="모양 2 copy 3" fill-rule="evenodd" class="s1" d="m1260 310c11 0 20 9 20 20v140c0 11-9 20-20 20h-370v-180z"/>
-		<text id="programmers" style="transform: matrix(10,0,0,10,89.898,433.811)" >
-			<tspan x="0" y="0" class="t2">p</tspan><tspan  y="0" class="t2">r</tspan><tspan  y="0" class="t2">o</tspan><tspan  y="0" class="t2">g</tspan><tspan  y="0" class="t2">r</tspan><tspan  y="0" class="t2">a</tspan><tspan  y="0" class="t2">m</tspan><tspan  y="0" class="t2">m</tspan><tspan  y="0" class="t2">e</tspan><tspan  y="0" class="t2">r</tspan><tspan  y="0" class="t2">s
+		<text id="programmers" style="transform: matrix(10,0,0,10,439.898,433.811)" >
+			<tspan x="-35.8" y="0" class="t2">p</tspan><tspan  y="0" class="t2">r</tspan><tspan  y="0" class="t2">o</tspan><tspan  y="0" class="t2">g</tspan><tspan  y="0" class="t2">r</tspan><tspan  y="0" class="t2">a</tspan><tspan  y="0" class="t2">m</tspan><tspan  y="0" class="t2">m</tspan><tspan  y="0" class="t2">e</tspan><tspan  y="0" class="t2">r</tspan><tspan  y="0" class="t2">s
 </tspan>
 		</text>
 		<use id="단색 채우기 2 copy" href="#img1" transform="matrix(1,0,0,1,980,345)"/>
